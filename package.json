@@ -16,6 +16,7 @@
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
+    "t4u5exemple": "link:",
     "vue": "^3.5.42",
     "vue-router": "^5.3.1"
   },

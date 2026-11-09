@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      t4u5exemple:
+        specifier: 'link:'
+        version: 'link:'
       vue:
         specifier: ^3.5.42
         version: 3.5.45(typescript@6.0.3)
